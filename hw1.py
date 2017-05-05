@@ -1,5 +1,8 @@
 """
 Homework #1 - Simple Calculator
+Description: Write a program that takes as input 2 non-zero whole numbers.
+Output the result of addition, subtraction, multiplication, normal divison,
+floor division, modulo, and exponentiation of those 2 operands.
 """
 
 print("Input 2 non-zero whole numbers")

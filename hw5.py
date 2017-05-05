@@ -1,5 +1,9 @@
 """
 Homework #5 - Find Area of geometric objects
+Description: Prompt the user for a number of different objects. Ask the user
+for the type, color, and size parameters. Then, using a separate file of
+Geometric Objects, instantiate each object and output the total area of all
+the objects.
 """
 from GeometricObject import *
 

@@ -1,5 +1,9 @@
 """
 Homework #4 - Sudoku Validator
+Description: Prompt the user for a file name with a sudoku puzzle solution.
+If the solution is valid, output "Puzzle is valid", otherwise "Puzzle is
+invalid". A solution is valid if for every cell, none of its buddies are the
+same. Buddies are cells in the same row, column, or square.
 """
 def main():
     file = input("Enter a file name: ")

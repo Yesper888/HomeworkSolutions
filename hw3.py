@@ -1,6 +1,8 @@
 """
 Homework #3 - Fibonacci Counter
 *Done naively
+Description: Prompt a user for the a number n. Output the first n fibonacci
+numbers. Solution must be done with some kind of recursion.
 """
 
 def fib(n):

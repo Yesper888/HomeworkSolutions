@@ -1,5 +1,9 @@
 """
 Homework #2 - High Low Game
+Description: Generate a random number.(1-100) In a loop, prompt the user
+to guess the number. If the number is too big, output "Too high" and continue
+the loop. If the number is too small, output "Too low" and continue the loop.
+If the user guesses right, end the loop and output the number of tries it took.
 """
 
 import random
